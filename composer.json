@@ -1,0 +1,22 @@
+{
+  "name": "lemassonh/cmstest",
+  "description": "Personal test",
+  "license": "MIT",
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "": []
+    }
+  },
+  "require-dev": {
+  },
+  "authors": [
+    {
+      "name": "Helene Lemascon"
+    }
+  ],
+  "config": {
+    "bin-dir": "bin"
+  }
+}
